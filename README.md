@@ -70,3 +70,5 @@ MIT License (Expat). See [LICENSE.md](LICENSE.md) for details.
 [solution-2-new-gist]: https://gist.github.com/rsp/17d69b2104be486f69a225fdcaca7869
 [solution-3-old-gist]: https://gist.github.com/rsp/d2c88e304a40805ef247c0cd5ac1e065
 [solution-3-new-gist]: https://gist.github.com/rsp/b85c279311464fdf4ed1ddb80f15b491
+[solution-1-scm-gist]: https://gist.github.com/rsp/f881a2ae22d9d3585891da75cae1b66a
+[solution-2-scm-gist]: https://gist.github.com/rsp/9abb75ab8b3e8f9709833d2e4a475b17
