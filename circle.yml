@@ -1,0 +1,6 @@
+dependencies:
+  pre:
+    - sudo apt-get install guile-2.0
+test:
+  override:
+    - guile tests.scm
