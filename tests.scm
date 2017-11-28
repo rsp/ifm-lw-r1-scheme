@@ -1,6 +1,8 @@
 (load "./helpers.scm")
 (load "./solution-2.scm")
 
+(debug-set! stack 200000)
+
 (define n 0)
 
 (define (test m)
