@@ -1,0 +1,7 @@
+language: c
+addons:
+  apt:
+    packages:
+      - guile-2.0
+script:
+  - guile tests.scm
