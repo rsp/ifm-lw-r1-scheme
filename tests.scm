@@ -26,13 +26,11 @@
 (equal (count input2) 2)
 (equal (count input3) 10)
 (equal (count input4) 100)
-(equal (count input5) 1000)
 
 (test "solution-2")
 (equal (count (f2 input1)) 0)
 (equal (count (f2 input2)) 1)
 (equal (count (f2 input3)) 9)
 (equal (count (f2 input4)) 99)
-(equal (count (f2 input5)) 999)
 
 (test "all tests passed")
