@@ -17,7 +17,7 @@ Solutions
 Solutions to the challange:
 
 1. Simple recursive solution:
-[solution-1.scm](solution-1.js) ([gist][solution-1-scm-gist])
+[solution-1.scm](solution-1.scm) ([gist][solution-1-scm-gist])
 2. Compact functional solution with no arithmetical and no conditional instructions:
 [solution-2.scm](solution-2.scm) ([gist][solution-2-scm-gist])
 
