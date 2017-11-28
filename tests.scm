@@ -29,15 +29,15 @@
 (equal (count input4) 100)
 
 (test "solution-1")
-(equal (count (f1 input1)) 0)
-(equal (count (f1 input2)) 1)
-(equal (count (f1 input3)) 9)
-(equal (count (f1 input4)) 99)
-
-(test "solution-2")
 (equal (count (f input1)) 0)
 (equal (count (f input2)) 1)
 (equal (count (f input3)) 9)
 (equal (count (f input4)) 99)
+
+(test "solution-2")
+(equal (count (g input1)) 0)
+(equal (count (g input2)) 1)
+(equal (count (g input3)) 9)
+(equal (count (g input4)) 99)
 
 (test "all tests passed")
